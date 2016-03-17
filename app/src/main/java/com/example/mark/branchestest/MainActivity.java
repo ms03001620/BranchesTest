@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //This line is in branch
         //This line is in branch
         //This line is in master
+        //This line is in branch1
     }
 }
