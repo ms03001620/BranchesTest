@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //This line is in branch
         //This line is in branch
+        //This line is in master
     }
 }
